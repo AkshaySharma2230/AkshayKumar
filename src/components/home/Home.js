@@ -23,7 +23,7 @@ const Home = () => {
             onLoad={() => setImageLoaded(true)}
           />
           <h1 className="greeting-text">
-            Hi, I'm <span className="name">Anuj Singh</span>.{' '}
+            Hi, I'm <span className="name">Akshay Kumar</span>.{' '}
             <span className="wave-emoji" role="img" aria-label="waving hand">
               👋
             </span>

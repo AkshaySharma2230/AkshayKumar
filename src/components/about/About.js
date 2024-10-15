@@ -15,7 +15,7 @@ const About = () => {
           <div className="about-text">
             <h2>Who am I?</h2>
             <p>
-              I'm Anuj{' '}
+              I'm Aksahay{' '}
               <span role="img" aria-label="lightning">
                 😄
               </span>{' '}
@@ -30,13 +30,13 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I have done <b>MCA</b> from <b>Lovely Professional University.</b>
+              I have done <b>BSCIT</b> from <b>Lovely Professional University.</b>
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I work with React Native, React.js, javascript, Angular, Android & iOS.
+              I work with iOS Swift,iOS.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -61,7 +61,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2016 - I've spent my time seeking and learning new
+              Since 2018 - I've spent my time seeking and learning new
               technologies in Mobile & Web App Development. This has led to me
               working on some amazing world-class{' '}
               <Link
